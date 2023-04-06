@@ -4,12 +4,13 @@ I’m a Machine Learning engineer with 5+ years experience building and shipping
 
 I also have a passion for research in Artificial Intelligence and Decision Theory, having previously researched problems in these fields and presented one of my publications at the biggest AI conference in the world (IJCAI).
 
-### Here's a few of my projects you can take a look at
+### Here's a few of the projects I worked on
 
 | Project | Contribution |
 | ------- | --------------|
-| [HVAS Face Person Recognition](https://github.com/davidezagami/hvas-face-person-recognition) | Face and person recognition models in Python using neural network architectures including Yolo and EfficientNet, as well as various features such as gender, age, head and body pose, gaze estimation, landmarks, mask usage and clothing. These models can detect more faces quicker than Google Cloud, Amazon Rekognition, and Azure Vision. |
-| [HVAS Vehicle and Plate Detection](https://github.com/davidezagami/hvas-vehicle-and-plate-detection) | Vehicle and registration plate recognition models in Python using neural network architectures including Yolo and EfficientNet, as well as various features such as vehicle color and make. |
+| [Konfuzio SDK](https://github.com/konfuzio-ai/konfuzio-sdk) | Responsible for the regular release of the open-source Konfuzio SDK package, a Python library to extract, classify and split documents using a combination of Tesseract, Pytorch, Keras, Transformers, Tokenizers and sklearn. |
+| [HVAS Face Person Recognition](https://github.com/davidezagami/hvas-face-person-recognition) | Face and person recognition models for for [app.horavision.ai](app.horavision.ai) using neural network architectures including Yolo and EfficientNet, as well as various features such as gender, age, head and body pose, gaze estimation, landmarks, mask usage and clothing. These models can detect more faces quicker than Google Cloud, Amazon Rekognition, and Azure Vision. |
+| [HVAS Vehicle and Plate Detection](https://github.com/davidezagami/hvas-vehicle-and-plate-detection) | Vehicle and registration plate recognition models for [app.horavision.ai](app.horavision.ai) using neural network architectures including Yolo and EfficientNet, as well as various features such as vehicle color and make. |
 | [Categorizing Wireheading in Partially Embedded Agents](https://ceur-ws.org/Vol-2419/paper_31.pdf) | Mathematical and experimental exploration on wireheading, the behavior of corrupting the internal structure of an AI agent in order to achieve maximal reward without solving the designer’s goal. IJCAI publication. |
 
 ### Talk with me:
