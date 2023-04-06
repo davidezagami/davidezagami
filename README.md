@@ -4,6 +4,14 @@ I’m a Machine Learning engineer with 5+ years experience building and shipping
 
 I also have a passion for research in Artificial Intelligence and Decision Theory, having previously researched problems in these fields and presented one of my publications at the biggest AI conference in the world (IJCAI).
 
+### Here's a few of my projects you can take a look at
+
+| Project | Contribution |
+| ------- | --------------|
+| [HVAS Face Person Recognition](https://github.com/davidezagami/hvas-face-person-recognition) | Face and person recognition models in Python using neural network architectures including Yolo and EfficientNet, as well as various features such as gender, age, head and body pose, gaze estimation, landmarks, mask usage and clothing. These models can detect more faces quicker than Google Cloud, Amazon Rekognition, and Azure Vision. |
+| [HVAS Vehicle and Plate Detection](https://github.com/davidezagami/hvas-vehicle-and-plate-detection) | Vehicle and registration plate recognition models in Python using neural network architectures including Yolo and EfficientNet, as well as various features such as vehicle color and make. |
+| [Categorizing Wireheading in Partially Embedded Agents](https://ceur-ws.org/Vol-2419/paper_31.pdf) | Mathematical and experimental exploration on wireheading, the behavior of corrupting the internal structure of an AI agent in order to achieve maximal reward without solving the designer’s goal. I presented my publication at the biggest AI conference in the world (IJCAI). |
+
 ### Talk with me:
 [<img align="left" alt="davide-zagami | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" />](https://www.linkedin.com/in/davide-zagami/)
 [<img align="left" alt="zagamidavide | email" width="22px" src="https://icon-library.com/images/windows-email-icon/windows-email-icon-9.jpg" />](mailto:zagamidavide@gmail.com)
