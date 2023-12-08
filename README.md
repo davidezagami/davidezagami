@@ -4,12 +4,16 @@ I'm a Deep Learning engineer with 5+ years experience building and shipping comp
 
 I also have a passion for research in Artificial Intelligence and Decision Theory, having previously researched problems in these fields and presented one of my publications at the biggest AI conference in the world (IJCAI).
 
+Knowledge areas: Object Detection & Segmentation · Image Classification & Recognition · Named Entity Recognition · Word Embeddings · Document Understanding · Data Annotation Lead · CICD · Orchestration
+
+Technologies: PyTorch · HuggingFace · Tesseract · spaCy · Flair · scikit-learn · pandas · GitLab · Kubernetes
+
 ### Here's a few of the projects I worked on
 
 | Project | Contribution |
 | ------- | --------------|
-| [FUNSD+](https://konfuzio.com/en/funsd-plus/) | I spearheaded the development of FUNSD+, an enhanced and expanded iteration of the prominent FUNSD dataset, by selecting documents from RVL-CDIP and coordinating with a team of 3 annotators. |
 | [Konfuzio SDK](https://github.com/konfuzio-ai/konfuzio-sdk) | I was responsible for the regular release of the open-source Konfuzio SDK package, a Python library to extract, classify and split documents using a combination of Tesseract, Pytorch, Keras, Transformers, Tokenizers and sklearn. |
+| [FUNSD+](https://konfuzio.com/en/funsd-plus/) | I spearheaded the development of FUNSD+, an enhanced and expanded iteration of the prominent FUNSD dataset, by selecting documents from RVL-CDIP and coordinating with a team of 3 annotators. |
 | [HVAS Face Person Recognition](https://github.com/davidezagami/hvas-face-person-recognition) | Face and person recognition models for for [app.horavision.ai](app.horavision.ai) using neural network architectures including Yolo and EfficientNet, as well as various features such as gender, age, head and body pose, gaze estimation, landmarks, mask usage and clothing. These models can detect more faces quicker than Google Cloud, Amazon Rekognition, and Azure Vision. |
 | [HVAS Vehicle and Plate Detection](https://github.com/davidezagami/hvas-vehicle-and-plate-detection) | Vehicle and registration plate recognition models for [app.horavision.ai](app.horavision.ai) using neural network architectures including Yolo and EfficientNet, as well as various features such as vehicle color and make. |
 | [Categorizing Wireheading in Partially Embedded Agents](https://ceur-ws.org/Vol-2419/paper_31.pdf) | Mathematical and experimental exploration on wireheading, the behavior of corrupting the internal structure of an AI agent in order to achieve maximal reward without solving the designer’s goal. IJCAI publication. |
@@ -18,6 +22,7 @@ I also have a passion for research in Artificial Intelligence and Decision Theor
 [<img align="left" alt="davide-zagami | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" />](https://www.linkedin.com/in/davide-zagami/)
 [<img align="left" alt="zagamidavide | email" width="22px" src="https://icon-library.com/images/windows-email-icon/windows-email-icon-9.jpg" />](mailto:zagamidavide@gmail.com)
 
+<!---
 <br>
 
 ### Languages and Tools:
@@ -33,5 +38,5 @@ I also have a passion for research in Artificial Intelligence and Decision Theor
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="Terminal" width="26px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/terminal-icon.png" />
-
+-->
 <br />
