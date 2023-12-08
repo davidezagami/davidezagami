@@ -4,9 +4,9 @@ I'm a Deep Learning engineer with 5+ years experience building and shipping comp
 
 I also have a passion for research in Artificial Intelligence and Decision Theory, having previously researched problems in these fields and presented one of my publications at the biggest AI conference in the world (IJCAI).
 
-Knowledge areas: Object Detection & Segmentation · Image Classification & Recognition · Named Entity Recognition · Word Embeddings · Document Understanding · Data Annotation Lead · CICD · Orchestration
+**Knowledge areas:** Object Detection & Segmentation · Image Classification & Recognition · Named Entity Recognition · Word Embeddings · Document Understanding · Data Annotation Lead · CICD · Orchestration
 
-Technologies: PyTorch · HuggingFace · Tesseract · spaCy · Flair · scikit-learn · pandas · GitLab · Kubernetes
+**Technologies:** PyTorch · HuggingFace · Tesseract · spaCy · Flair · scikit-learn · pandas · GitLab · Kubernetes
 
 ### Here's a few of the projects I worked on
 
