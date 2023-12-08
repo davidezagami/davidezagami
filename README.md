@@ -8,6 +8,7 @@ I also have a passion for research in Artificial Intelligence and Decision Theor
 
 | Project | Contribution |
 | ------- | --------------|
+| [FUNSD+](https://konfuzio.com/en/funsd-plus/) | I spearheaded the development of FUNSD+, an enhanced and expanded iteration of the prominent FUNSD dataset, by selecting documents from RVL-CDIP and coordinating with a team of 3 annotators. |
 | [Konfuzio SDK](https://github.com/konfuzio-ai/konfuzio-sdk) | I was responsible for the regular release of the open-source Konfuzio SDK package, a Python library to extract, classify and split documents using a combination of Tesseract, Pytorch, Keras, Transformers, Tokenizers and sklearn. |
 | [HVAS Face Person Recognition](https://github.com/davidezagami/hvas-face-person-recognition) | Face and person recognition models for for [app.horavision.ai](app.horavision.ai) using neural network architectures including Yolo and EfficientNet, as well as various features such as gender, age, head and body pose, gaze estimation, landmarks, mask usage and clothing. These models can detect more faces quicker than Google Cloud, Amazon Rekognition, and Azure Vision. |
 | [HVAS Vehicle and Plate Detection](https://github.com/davidezagami/hvas-vehicle-and-plate-detection) | Vehicle and registration plate recognition models for [app.horavision.ai](app.horavision.ai) using neural network architectures including Yolo and EfficientNet, as well as various features such as vehicle color and make. |
