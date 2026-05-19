@@ -1,24 +1,17 @@
-### Hi there 👋
+I help operations and engineering teams deploy AI automation for documents, images, and internal workflows to reduce manual review and improve case turnaround.
 
-I'm a Deep Learning engineer with 5+ years experience building and shipping complex data-driven solutions.
+I am an AI engineer and Acyfer founder with 7+ years of experience shipping production systems across insurance, finance, legal, supply-chain, certification, and compliance workflows.
 
-I also have a passion for research in Artificial Intelligence and Decision Theory, having previously researched problems in these fields and presented one of my publications at the biggest AI conference in the world (IJCAI).
+I run Acyfer, an IDP platform at app.acyfer.com that uses AI agents to create auditable extraction workflows. The product is designed for CPU-compatible deployment on-prem, in client cloud, or in dedicated cloud, with field highlights, reviewer logs, and structured exports.
 
-**Knowledge areas:** Object Detection & Segmentation · Image Classification & Recognition · Named Entity Recognition · Word Embeddings · Document Understanding · Data Annotation Lead · CICD · Orchestration
+Selected proof:
+- I built the Computer Vision layer while working with an Italian insurtech in the process of a EUR 1.24M acquisition.
+- ML work tied to the expandion of a German document AI SaaS platform.
+- Acyfer document AI extraction workflows benchmarked from 10 sec/page to 2 sec/page on 100 real-world documents.
 
-**Technologies:** PyTorch · HuggingFace · Tesseract · spaCy · Flair · scikit-learn · pandas · GitLab · Kubernetes
+I am currently open to freelance and consulting projects where a company needs a pragmatic engineer to turn messy operational work into reliable software. Useful starting points: AI-agent workflows, Python automation, OCR/data extraction, API/ETL integrations, backend implementation, and internal tools.
 
-### Here's a few of the projects I worked on
-
-| Project | Contribution |
-| ------- | --------------|
-| [HVAS Face Person Recognition](https://github.com/davidezagami/hvas-face-person-recognition) | Face and person recognition models for for [app.horavision.ai](app.horavision.ai) using neural network architectures including Yolo and EfficientNet, as well as various features such as gender, age, head and body pose, gaze estimation, landmarks, mask usage and clothing. These models can detect more faces quicker than Google Cloud, Amazon Rekognition, and Azure Vision. |
-| [HVAS Vehicle and Plate Detection](https://github.com/davidezagami/hvas-vehicle-and-plate-detection) | Vehicle and registration plate recognition models for [app.horavision.ai](app.horavision.ai) using neural network architectures including Yolo and EfficientNet, as well as various features such as vehicle color and make. |
-| [Categorizing Wireheading in Partially Embedded Agents](https://ceur-ws.org/Vol-2419/paper_31.pdf) | Mathematical and experimental exploration on wireheading, the behavior of corrupting the internal structure of an AI agent in order to achieve maximal reward without solving the designer’s goal. IJCAI publication. |
-
-### Talk with me:
-[<img align="left" alt="davide-zagami | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" />](https://www.linkedin.com/in/davide-zagami/)
-[<img align="left" alt="zagamidavide | email" width="22px" src="https://icon-library.com/images/windows-email-icon/windows-email-icon-9.jpg" />](mailto:zagamidavide@gmail.com)
+Contact: davide.zagami@acyfer.com
 
 <!---
 <br>
