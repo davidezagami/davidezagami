@@ -5,8 +5,8 @@ I am an AI engineer and Acyfer founder with 7+ years of experience shipping prod
 I run Acyfer, an IDP platform at app.acyfer.com that uses AI agents to create auditable extraction workflows. The product is designed for CPU-compatible deployment on-prem, in client cloud, or in dedicated cloud, with field highlights, reviewer logs, and structured exports.
 
 Selected proof:
-- I built the Computer Vision layer while working with an Italian insurtech in the process of a EUR 1.24M acquisition.
-- ML work tied to the expandion of a German document AI SaaS platform.
+- I built the Computer Vision layer while working with an Italian insurtech.
+- I did ML work tied to the expandion of a German document AI SaaS platform.
 - Acyfer document AI extraction workflows benchmarked from 10 sec/page to 2 sec/page on 100 real-world documents.
 
 I am currently open to freelance and consulting projects where a company needs a pragmatic engineer to turn messy operational work into reliable software. Useful starting points: AI-agent workflows, Python automation, OCR/data extraction, API/ETL integrations, backend implementation, and internal tools.
